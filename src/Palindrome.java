@@ -8,7 +8,6 @@ public class Palindrome {
         if(original.equals(reversed)){
             System.out.println("palindrome" );
         }else{
-
             System.out.println("not palindrome");
         }
 
