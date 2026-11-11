@@ -22,5 +22,4 @@ class FactorialOptimized {
         int n = 5;
         System.out.println("Factorial :" +factorial(n));
     }
-
 }
