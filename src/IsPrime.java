@@ -6,7 +6,6 @@ public class IsPrime {
         if(num <= 1){
             isPrime = false;
         }
-
         for(int i = 2;i < num;i++){
             if(num % 2 == 0){
                 isPrime = false;
